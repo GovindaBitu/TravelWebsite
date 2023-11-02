@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/TravelWebsite/static/css/main.f3fa3549.css",
+    "main.js": "/TravelWebsite/static/js/main.bcf667e6.js",
+    "static/js/787.397fec01.chunk.js": "/TravelWebsite/static/js/787.397fec01.chunk.js",
+    "static/media/vbeach.mp4": "/TravelWebsite/static/media/vbeach.6a87d184f74641cffbec.mp4",
+    "static/media/island.5.jpg": "/TravelWebsite/static/media/island.5.142f0063554b7f9cff6e.jpg",
+    "static/media/island.2.jpg": "/TravelWebsite/static/media/island.2.38ef19eaa74517531355.jpg",
+    "static/media/island.4.jpg": "/TravelWebsite/static/media/island.4.38ef19eaa74517531355.jpg",
+    "static/media/island.3.jpg": "/TravelWebsite/static/media/island.3.deb68fd52ed9d437a8fc.jpg",
+    "static/media/island.6.jpg": "/TravelWebsite/static/media/island.6.03cf88e256593f854471.jpg",
+    "static/media/island.1.jpg": "/TravelWebsite/static/media/island.1.60db28c50691f146139c.jpg",
+    "static/media/4.beach.jpg": "/TravelWebsite/static/media/4.beach.5b5ec10f5692ac84430f.jpg",
+    "static/media/3.beach.jpg": "/TravelWebsite/static/media/3.beach.8c1d31c7140c34450e9c.jpg",
+    "static/media/2.beach.jpg": "/TravelWebsite/static/media/2.beach.5378cb927a36f076b759.jpg",
+    "static/media/6.jpg": "/TravelWebsite/static/media/6.cf81b95c5a6c8e342007.jpg",
+    "static/media/5.jpg": "/TravelWebsite/static/media/5.504baef3bc4a16eda9c8.jpg",
+    "index.html": "/TravelWebsite/index.html",
+    "main.f3fa3549.css.map": "/TravelWebsite/static/css/main.f3fa3549.css.map",
+    "main.bcf667e6.js.map": "/TravelWebsite/static/js/main.bcf667e6.js.map",
+    "787.397fec01.chunk.js.map": "/TravelWebsite/static/js/787.397fec01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3fa3549.css",
+    "static/js/main.bcf667e6.js"
+  ]
+}
