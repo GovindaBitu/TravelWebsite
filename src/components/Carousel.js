@@ -28,11 +28,11 @@ const Carousel = () => {
     <div className='max-w-[1240px] mx-auto px-4 py-16 relative flex justify-center items-center'>
       <BsArrowLeft onClick={prevSlide} className='absolute top-[50%] text-3xl text-white cursor-pointer left-8' />
       <BsArrowRight onClick={nextSlide} className='absolute top-[50%] text-3xl text-white cursor-pointer right-8' />
-     { sliderData.map((item, index)=>{
+     { sliderData.map((item, index)=>(
         <div className={index === slide ? 'opacity-100' : 'opacity-0'}>
           {index === slide && <img className='w-full rounded-md' src={item.url} alt='/' />}
         </div>
-      })}
+      ))}
     </div>
   )
 }
